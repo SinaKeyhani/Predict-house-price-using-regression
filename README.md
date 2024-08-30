@@ -38,5 +38,3 @@ After implementing the tuned Model with selectedTop Features, we get the followi
 
 
 
-
-shayan
